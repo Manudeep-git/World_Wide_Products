@@ -5,7 +5,7 @@ Project based on Time Series Forecasting, Introduction to Data Science Project 5
 
 
 Time Series Forecasting Approaches:<br>
-1. XGBoost <br>
+1. XGBoost Regressor  <br>
 2. FbProphet <br>
 
 
